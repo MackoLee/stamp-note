@@ -5,7 +5,7 @@
     >
       <u-avatar
           :ui="{
-             background: 'bg-red-100 dark:bg-red-800 hover:bg-red-200 dark:hover:bg-red-700 cursor-pointer',
+             background: 'bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 cursor-pointer',
           }"
       >
         <span

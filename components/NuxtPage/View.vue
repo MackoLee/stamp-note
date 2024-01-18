@@ -12,6 +12,9 @@ const view = computed(() => store.viewMode);
   <div class="h-full">
     <slot name="top-right">
       <div class="absolute top-2 right-2 z-10 flex gap-2">
+        <CommonPresentaionBtn />
+        <CommonFigmaBtn />
+        <CommonGithubBtn />
         <CommonThemeBtn/>
         <NuxtPageViewSelect/>
       </div>
