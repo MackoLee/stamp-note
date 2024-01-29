@@ -8,7 +8,7 @@
       }"
     >
       <span
-        class="flex dark:hidden"
+        class="flex"
       >
         <icon
           name="fa:github"
